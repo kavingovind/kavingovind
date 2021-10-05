@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!, I am <a href="https://github.com/kavingovind">Kavin</a> 👋
 
 <br/>
   <a href="https://www.facebook.com/cavingovindasamy/">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: <a href="http://www.kavingovind.me">www.kavingovind.me</a>
+- 📫 How to reach me: <a href="https://kavingovind.github.io/">kavingovind.github.io</a>
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
