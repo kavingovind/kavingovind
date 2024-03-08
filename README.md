@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **something interesting**
 
-- 🌱 I’m currently learning **#blockchain**
+- 🌱 I’m currently learning **#nextjs**
 
-- 👯 I’m looking to collaborate on [@budcoders](https://github.com/budcoders)
+<!--- - 👯 I’m looking to collaborate on [@budcoders](https://github.com/budcoders) --->
 
 - 💬 Ask me about **#javascript, #react**
 
