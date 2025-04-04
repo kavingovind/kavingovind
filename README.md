@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm kavingovind</h1>
-<h3 align="center">I'm Product Developer based in India. I enjoy exploring the latest advancements in technology and staying up-to-date on emerging trends.</h3>
+<h1 align="center">Hey there 👋, I'm Kavin!</h1>
+<h3 align="center">I'm a self-taught developer with an insatiable curiosity for code and innovation. As a Software Engineer, I love diving into the latest tech trends, tinkering with new tools, and building things that make life easier (or just more fun). Whether it's solving complex problems or learning something new, I'm always up for the challenge. Let's build something awesome! 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavingovind&label=Profile%20Views&color=0cb636&style=flat" alt="kavingovind" /> </p>
 
@@ -11,16 +11,11 @@
 
 - 💬 Ask me about **#javascript, #react**
 
-- 📫 How to reach me **letterstokavin@gmail.com**
+<!--- - 📫 How to reach me **letterstokavin@gmail.com** --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavingovind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavingovind" height="30" width="40" /></a>
-<a href="https://medium.com/@kavingovind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kavingovind" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavingovind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavingovind" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kavingovind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavingovind" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kavingovind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kavingovind" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kavingovind/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavingovind/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
